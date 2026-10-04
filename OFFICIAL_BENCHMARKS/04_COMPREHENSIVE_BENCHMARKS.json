@@ -1,0 +1,11 @@
+{
+  "project": "K_RLVRWORLD",
+  "tier": "TIER_5_WORLD_NEURO_EMBODIED",
+  "run_timestamp": "2026-09-30T16:03:45.354149+00:00",
+  "tracked_files": 144,
+  "python_files": 50,
+  "estimated_source_lines": 2380,
+  "upstream_exists": true,
+  "benchmarks_note": "Full benchmark suite pending run_benchmarks_comprehensive.py pass",
+  "seed": 39767
+}
